@@ -1,5 +1,5 @@
-# Zablurb
-*Omschrijving van je concept in 1 zin. Bijvoorbeeld: Zablurb (naam van je product), een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren. Dit is de 'value promise', die in 1 sterke zin zegt wat je product doet, duidelijk voor iemand die je project nog niet kende. Voeg deze zelfde omschrijving ook toe aan Github (rechtsboven bij 'about' op het tandwiel klikken).*
+# GS-Learning Device
+Een slim ofline leermiddel om flexibel en overal te kunnen leren voor werkende mensen in ontwikkelingslanden.
 
 
 > 🛠️ Built by `Briek` & `Viggo`  
@@ -12,8 +12,16 @@
 Max 500 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:   
 (in deze samenvatting moet een lezer de essentie meekrijgen van de volledige GitHub zonder deze te moeten lezen)   
 
+In ontwikkelingslanden hebben mensen niet altijd evenveel toegang tot het internet of elektriciteit. Tijd wordt erder besteet aan overleven dan aan studies bij werkende volwassenen met weinig geld. Scholen zijn er ook niet altijd in de buurt dus als er al tijd was is er soms zelf geen mogelijkheid om bij te leren.
+
 - Wat is het probleem? (cfr. 'wie heeft welk probleem?').
+
+Onderzoek werdt gedaan via literatuur studies (N=10), benchmarking en gebruikerstesten (N=8).
+
 - Hoe heb je dit onderzocht? Hoe zag jouw proces eruit om tot een oplossing te komen? Als je onderzoeksmethoden vermeldt, geef ook altijd de steekproefgrootte mee (vb. *"Op basis van contextual inquiries (N=5) werden nachtelijke patronen en de emotionele beleving onderzocht."*)
+
+Het GS-Learning device zorgt ervoor dat de werkende volwassene op elk moment kort of lang kan bij leren aan de hand van tekst, afbeeldingen, audio en oefeningen. Door het vouwbaar ontwerp kan het device makkelijk megenomen worden, ook zorgen de e-paper schermen ervoor dat de gebruiker het toestel lang kan gebruiken voor het opnieuw moet opgeladen worden. 
+
 - Wat is/doet/belooft jouw oplossing en hoe lost jouw oplossing het probleem op? Zorg dat een leek begrijpt wat je product is en welke functies het heeft (hoe maakt houw product de value promise waar?).
 - Geannoteerde hero sketches/renders/images, zoals bijvoorbeeld.
 <p align="center">
