@@ -1,3 +1,0 @@
-binjour monsieur
-° ccdsqdf
-biem
