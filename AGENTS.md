@@ -1,5 +1,5 @@
-# Zablurb
-Slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.
+# GS-Learning Device
+Een standalone, offline, leerapparaat om werkende volwassenen in het globale zuiden te helpen met levenslang leren.
 Ontwerpproject Industrial Design Engineering (UGent). Samenvatting: README.md.
 ## Mappen
 - docs/: rapport, één bestand per fase (volgorde: inhoudstafel in README.md)
